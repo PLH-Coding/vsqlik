@@ -204,7 +204,7 @@
     "@typescript-eslint/parser": "3.10.1",
     "chai": "4.3.4",
     "chalk": "4.1.1",
-    "copy-webpack-plugin": "^8.1.1",
+    "copy-webpack-plugin": "^9.0.1",
     "copyfiles": "2.4.1",
     "deepmerge": "4.2.2",
     "electron": "^12.0.6",
