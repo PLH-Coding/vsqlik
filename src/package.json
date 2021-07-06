@@ -231,7 +231,7 @@
     "object-hash": "2.1.1",
     "reflect-metadata": "^0.1.13",
     "request": "2.88.2",
-    "rxjs": "^7.0.1",
+    "rxjs": "^7.2.0",
     "tsyringe": "^4.5.0",
     "winston": "^3.3.3",
     "winston-transport": "^4.4.0",
